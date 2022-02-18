@@ -13,3 +13,22 @@ Maiores desafios:
 **FrameWork** : quando se trabalha com uma tecnologia nova é sempre um desafio a mais pois a ferramenta alem de ser desconhecida pode acabar gerando algunas bugs ao invés de corrigilos
 
 **QuemTesta**: ta mas quem testa os testes? e um falso positivo ? esses são problemas que resolvemos com uma ferramenta chamada striker responsavel por casusar mutações no codigo 
+
+## Como rodar ?
+
+Primeiro clone o repositorio 
+
+> git clone [chave ssh]
+
+em seguida intale as dependecias
+
+> npm i
+
+**Alert** o npm é um pacote do node.js garanta que você o tenha instalado com uma versão lts :)
+
+rodando o programa
+> logo apos tudo rode o comando : npm start
+
+rodando os Testes
+
+>npm run test
